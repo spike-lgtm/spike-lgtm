@@ -32,7 +32,7 @@ const spike_at_a_glance = {
     }
 }
 ```
-## 👨‍💻 Educational Qualifications
+## 🎓 Educational Qualifications
 
 **Bachelor's in Computer Science** @ [Independent University, Bangladesh](http://www.iub.edu.bd/) _(June 2023 - Present)_ <br>
 _Safe haven for brilliant minds to grow._
