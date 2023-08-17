@@ -32,9 +32,15 @@ const spike_at_a_glance = {
     }
 }
 ```
+## 👨‍💻 Educational Qualifications
+
+**Bachelor's in Computer Science** @ [Independent University, Bangladesh](http://www.iub.edu.bd/) _(June 2023 - Present)_ <br>
+_Safe haven for brilliant minds to grow._
+<br><br>
+
 ## 👨‍💻 Engineering Experience
 
-**Software Engineer** @ [Lexoro GmbH - MÜNCHEN, GERMANY](https://lexoro.ai/) _(Oct 2020 - Present)_ <br>
+**Software Engineer** @ [Lexoro GmbH - MÜNCHEN, GERMANY](https://lexoro.ai/) _(Oct 2020 - June 2023)_ <br>
 _Focused on providing intelligent support to medical and pharmaceutical companies._
   - Architected and programmed cross-platform applications utilizing Flutter framework.
   - Wrote code in multiple architecture layers, including the application core and integrations with external services
